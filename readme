@@ -1,1 +1,8 @@
-readme
+this is repo for scripts in python
+this include many portals including
+admin
+user
+owner
+tenant
+you need to have chromium and pytest to run
+You may also need admin authentication for use(For that contact customer support)
